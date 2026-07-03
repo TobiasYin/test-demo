@@ -1,0 +1,16 @@
+main.go
+  h_c7fab07f097158 1-27
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.5",
+  "base_commit_sha": "8c18fc7f7d06204d9c7db03667b0e455b6c91d98",
+  "prompts": {},
+  "humans": {
+    "h_c7fab07f097158": {
+      "author": "yinruitao.org <yinruitao.org@bytedance.com>"
+    }
+  },
+  "attestation_metadata": {},
+  "remote_transcripts": {}
+}
